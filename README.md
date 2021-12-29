@@ -62,6 +62,24 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
+   
+   <br>
+   
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="80" height="40"/> 
+  </a> 
+   
+   <a href="https://visualstudio.microsoft.com/tr/downloads/" target="_blank" rel="noreferrer"> 
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualstudio2019" width="40" height="40"/> 
+  </a> 
+   
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/> 
+  </a> 
+   
+   <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/> 
+  </a> 
   
 </p>
 
