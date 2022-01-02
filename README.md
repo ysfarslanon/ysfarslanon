@@ -6,7 +6,7 @@
 ### First of all let me introduce myself.
 
 - I am twenty four years old and I live in Turkey / Konya.
-- I graduated from geomatic engineer in July 2020.:tada::mortar_board:
+- I graduated from geomatics engineer in July 2020.:tada::mortar_board:
 - I constantly improving myself in Back-End Development since January 2021
 - I'm Geomatic Engineer but after the job change decision, i am a software developer who is determined to follow his dream.
 <br><br><br><br><br><br><br><br>
