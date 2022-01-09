@@ -80,6 +80,10 @@
    <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> 
     <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/> 
   </a> 
+   
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+   </a>
   
 </p>
 
