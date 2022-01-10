@@ -1,5 +1,5 @@
 <h1 align="center" >Hi there 👋, I'm Yusuf.</h1>
-<h3 align="center" >Welcome to my github profile. Nice to see you here :smile: </h3>
+<h3 align="center" >Welcome to my github. Nice to see you here :smile: </h3>
 
 <img align="left" src="https://github.com/ysfarslanon/ysfarslanon/blob/main/helloWorld.gif?raw=true" /> 
 
