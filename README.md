@@ -95,7 +95,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ysfarslanon&show_icons=true&locale=en" alt="ysfarslanon" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ysfarslanon&" alt="ysfarslanon" /></p>
+
 
 ### Github trophy
 
